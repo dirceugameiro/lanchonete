@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+header nav{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    margin-left: 60px;
+    box-sizing: border-box;
+}
+
+header nav a{
+    padding: 3px;
+    margin-bottom: ;
+    box-sizing: border-box;
+    width: 150px;
+
+}
+
+header{
+    display: flex;
+    margin: 0px;
+}
+
+
+main{
+    margin: 0px;
+    padding: 0px;
+}
+main h1{
+    font-size: 1.5em;
+}
+
+.content1 h2{
+    font-size: 1.3em;
+    margin-left: ;
+}
+
+
+.img{
+    margin: 0px;
+    padding: 0px;
+}
+.img img{
+    width: 250px;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 0%;
+    margin-right: 5px;
+}
+
+.content1 button{
+display: block;
+margin-left: 100px;
+width: 115px;
+height: auto;
+margin-bottom: 40px;
+}
+
+button a{
+  font-size: 5px;
+}
+
+.lista{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+ justify-content: center;
+ font-size: 0.8em;
+ margin-left: 0px;
+}
+
+button.botaoform a{
+    font-size: 1.5em ;
+}
+
+.lista li{
+    margin-left: 0px;
+}
+
+
+
+
+section#pagdois{
+    margin-left: 0px;
+}
+
+.content2{
+    margin-left: 0px;
+}
+
+.content2 h1{
+    margin-left: 0px;
+}
+.content h2{
+    margin-left: 0px;
+}
+
+.content p{
+    margin-left: 0px;
+}
