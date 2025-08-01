@@ -8,9 +8,16 @@ html {
     scroll-behavior: smooth;
 }
 
+i#burger{
+    display: none;
+}
 .logo {
     width: 200px;
     height: auto;
+}
+
+nav{
+    display: flex;
 }
 
 nav a:hover {
