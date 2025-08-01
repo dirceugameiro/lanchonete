@@ -5,12 +5,22 @@
     
 }
 
+i#burger{
+    cursor: pointer;
+    display: block;
+}
+
 header nav{
-    display: flex;
+    display: none;
     flex-direction: column;
     margin-top: 0px;
     margin-left: 60px;
     box-sizing: border-box;
+   
+}
+
+header nav.ativo{
+    display: flex;
 }
 
 header nav a{
