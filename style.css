@@ -100,7 +100,7 @@ main {
 
 
 .pagdois{
-    background-image: url(Lanchonete/16-hamburguer.jpeg);
+    background-image: url(./Lanchonete/16-hamburguer.jpeg);
     margin: 0px;
     padding: 15px;
     background-repeat: no-repeat;
@@ -371,4 +371,5 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
