@@ -146,7 +146,6 @@ ul.lista {
 }
 
 ul.lista li {
-    padding-bottom: 10px;
 }
 
 .imagem {
@@ -371,6 +370,7 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
 
 
