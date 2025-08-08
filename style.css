@@ -107,6 +107,7 @@ main {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    color: #FCECD6;
 }
 .content2 {
     padding: 0 40px
@@ -371,5 +372,6 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
 
