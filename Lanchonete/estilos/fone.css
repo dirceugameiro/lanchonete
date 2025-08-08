@@ -5,22 +5,14 @@
     
 }
 
-i#burger{
-    cursor: pointer;
-    display: block;
-}
 
 header nav{
-    display: none;
+    display: flex;
     flex-direction: column;
     margin-top: 0px;
     margin-left: 60px;
     box-sizing: border-box;
    
-}
-
-header nav.ativo{
-    display: flex;
 }
 
 header nav a{
@@ -113,4 +105,15 @@ section#pagdois{
 
 .content p{
     margin-left: 0px;
+}
+
+
+div.containerlanche{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 30px;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
 }
