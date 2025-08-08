@@ -210,6 +210,7 @@ section.pagtres {
     padding: 6px;
     display: flex;
     flex-direction: column;
+    box-shadow: 3px 3px 6px #2b2118b2;
 }
 
 div.formulario {
@@ -236,7 +237,8 @@ div.containerlanche{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    margin-top: 40px;
+    margin-top: 0px;
+    padding: 20px;
 }
  div.card1 img{
     width: 100%;
@@ -246,7 +248,7 @@ div.containerlanche{
 
 div.card1{
     box-sizing: border-box;
-    border: 1px solid grey;
+    border:1px solid rgba(255, 255, 255, 0.452);
     width: 200px;
     text-align: center;
     line-height: 1.5em;
@@ -254,16 +256,27 @@ div.card1{
     box-shadow: 2px 2px 6px #2b2118b2;
 text-align: justify center;
 transition: 0.2s;
+background-color: rgba(0, 0, 0, 0.6);
     
 }
+div.card1 > div.textocard2 > h1{
+    color: #ffcc66;
+}
 
+.textocard2 > p{
+    color: #b3b3b3;
+}
 
 div.containerlanche2{
     display: flex;
 justify-content: space-evenly;
     flex-wrap: wrap;
-    margin-top: 50px;
-    margin-bottom: 30px;
+    padding: 20px;
+}
+
+section.lanchos{
+    background-image: radial-gradient( #5e4634, #38291e, #1d1510);
+    box-shadow: 10px 10px 20px #2b2118b2 ;
 }
 
 
