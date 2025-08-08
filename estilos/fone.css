@@ -61,7 +61,7 @@ display: block;
 margin-left: 100px;
 width: 115px;
 height: auto;
-margin-bottom: 40px;
+margin-bottom: 10px;
 }
 
 button a{
@@ -116,4 +116,5 @@ div.containerlanche{
     align-content: center;
     flex-wrap: wrap;
     margin-top: 40px;
+
 }
