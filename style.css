@@ -119,6 +119,7 @@ main {
     margin-bottom: 30px;
     margin-left: 30px;
     padding: 5px;
+    color: #FCECD6;
 }
 
 .content2 h2 {
@@ -126,11 +127,13 @@ main {
     margin-left: 30px;
     margin-bottom: 30px;
     padding: 5px;
+    color: #FCECD6;
 }
 
 .content2 p {
     margin-left: 30px;
 padding: 5px;
+    color: #FCECD6;
 }
 
 
@@ -368,6 +371,7 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
 
 
