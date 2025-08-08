@@ -118,7 +118,6 @@ main {
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 30px;
-    color: #4d8f13;
     padding: 5px;
 }
 
@@ -126,14 +125,12 @@ main {
     font-size: 20px;
     margin-left: 30px;
     margin-bottom: 30px;
-    color: #FFC107;
     padding: 5px;
 }
 
 .content2 p {
     margin-left: 30px;
 padding: 5px;
-    color: #FFC107;
 }
 
 
@@ -147,7 +144,6 @@ ul.lista {
 
 ul.lista li {
     padding-bottom: 10px;
-    color: #ffbf00;
 }
 
 .imagem {
@@ -372,6 +368,7 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
 
 
