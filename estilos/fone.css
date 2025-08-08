@@ -5,6 +5,10 @@
     
 }
 
+body{
+    width: 100vw;
+    height: 100vh;
+
 
 header nav{
     display: flex;
@@ -118,3 +122,4 @@ div.containerlanche{
     margin-top: 40px;
 
 }
+
