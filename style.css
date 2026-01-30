@@ -83,6 +83,7 @@ conteudo1 p {
     border-radius: 10px;
     margin-left: 30px;
     box-shadow: 2px 2px 4px rgba(21, 21, 21, 0.705);
+    margin-top: 20px;
 }
 
 .conteudo1 button:hover {
@@ -370,6 +371,7 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
 
 
