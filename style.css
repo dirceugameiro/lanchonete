@@ -243,7 +243,8 @@ div.containerlanche{
  div.card1 img{
     width: 100%;
     height: auto;
-     display: block;
+      display: flex;
+    flex-direction: column;
     
 }
 
@@ -283,9 +284,18 @@ section.lanchos{
 
 div.containerlanche2 > div.card1 > div.textocard2{
     padding: 15px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;;
 }
 div.containerlanche > div.card1 > div.textocard2{
     padding: 15px;
+    padding: 15px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 
@@ -372,6 +382,7 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
 
 
