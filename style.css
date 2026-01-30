@@ -242,7 +242,8 @@ div.containerlanche{
 }
  div.card1 img{
     width: 100%;
-    height: 40%;
+    height: auto;
+     display: block;
     
 }
 
@@ -371,6 +372,7 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
 
 
