@@ -57,26 +57,26 @@ main {
 }
 
 
-.content1 h1 {
+.conteudo1 h1 {
     margin-top: 60px;
     margin-left: 30px;
     margin-bottom: 30px;
 }
 
-.content1 h2 {
+.conteudo1 h2 {
     margin-left: 30px;
     font-size: 30px;
     font-weight: normal;
     margin-bottom: 30px;
 }
 
-.content1 p {
+conteudo1 p {
     margin-left: 30px;
     margin-bottom: 30px;
 }
 
 
-.content1>button {
+.conteudo1>button {
     background-color: #6B8E23;
     border: none;
     padding: 15px;
@@ -85,12 +85,12 @@ main {
     box-shadow: 2px 2px 4px rgba(21, 21, 21, 0.705);
 }
 
-.content1 button:hover {
+.conteudo1 button:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;
 }
 
-.content1>button a {
+.conteudo1>button a {
     text-decoration: none;
     color: white;
     padding: 8px;
@@ -370,6 +370,7 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
 
 
