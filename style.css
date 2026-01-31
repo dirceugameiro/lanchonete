@@ -263,6 +263,7 @@ background-color: rgba(0, 0, 0, 0.6);
 }
 div.card1 > div.textocard2 > h1{
     color: #ffcc66;
+    overflow: hidden;
 }
 
 .textocard2 > p{
@@ -382,6 +383,7 @@ button.botaoform a {
 button.botaoform:hover {
     transform: translate(-3px, -3px);
     transition: 0.3s;}
+
 
 
 
